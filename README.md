@@ -2,6 +2,8 @@
 
 This project provides an optimization-based signal generator designed to create worst-case signals for closed-loop systems. The core of the system is a flexible signal generator with an objective function that can be adapted to various optimization methods.
 
+[![DOI](https://zenodo.org/badge/961921832.svg)](https://doi.org/10.5281/zenodo.15167317)
+
 ## About  
 This code was developed as part of the master's thesis  
 *"Optimierungsbasierte Generierung von Testsignalen für die Analyse von Regelkreisen"*  
